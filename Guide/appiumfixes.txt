@@ -1,0 +1,8 @@
+Stop appium server and execute below commands
+
+adb uninstall io.appium.uiautomator2.server adb uninstall io.appium.uiautomator2.server.test
+
+start appium server and execute your scripts ..it will work
+
+
+an you try installing the latest beta (npm uninstall -g appium && npm cache clean && npm install -g appium@beta)? It should have appium-adb@2.24.1. I've made changes that I hope will fix this issue.
