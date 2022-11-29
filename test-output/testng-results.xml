@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-10-31T20:53:30 GST" name="Default suite" finished-at="2022-10-31T20:53:53 GST" duration-ms="22504">
+  <suite started-at="2022-11-28T12:10:34 GST" name="Suite" finished-at="2022-11-28T12:10:51 GST" duration-ms="16720">
     <groups>
     </groups>
-    <test started-at="2022-10-31T20:53:30 GST" name="Default test" finished-at="2022-10-31T20:53:53 GST" duration-ms="22504">
-      <class name="appiumcourse.GeneralStore">
-        <test-method signature="checkCountry()[pri:0, instance:appiumcourse.GeneralStore@404bbcbd]" started-at="2022-10-31T20:53:30 GST" name="checkCountry" finished-at="2022-10-31T20:53:52 GST" duration-ms="22229" status="PASS">
+    <test started-at="2022-11-28T12:10:34 GST" name="Test" finished-at="2022-11-28T12:10:51 GST" duration-ms="16720">
+      <class name="appiumcourse.AppiumBasicsnew">
+        <test-method signature="Check()[pri:0, instance:appiumcourse.AppiumBasicsnew@404bbcbd]" started-at="2022-11-28T12:10:35 GST" name="Check" finished-at="2022-11-28T12:10:51 GST" duration-ms="16487" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- checkCountry -->
-      </class> <!-- appiumcourse.GeneralStore -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- Check -->
+      </class> <!-- appiumcourse.AppiumBasicsnew -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
