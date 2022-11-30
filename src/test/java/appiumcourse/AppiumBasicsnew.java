@@ -51,7 +51,7 @@ public class AppiumBasicsnew {
 	//	WebElement access=driver.findElement(By.id("android:id/text1"));
 	//	access.click();
 
-	 //   Thread.sleep(3000);
+	    Thread.sleep(6000);
 	    
 	  //  WebElement access2=driver.findElement(By.id("android:id/text1"));
 	   // access2.click();
